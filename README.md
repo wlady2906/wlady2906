@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 
 - Gmail: wlady1516@gmail.com
-- Instagram: wladytechsite
+- Instagram: wladytech
 
 
 <!---
