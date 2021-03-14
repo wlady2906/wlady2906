@@ -7,7 +7,7 @@
 - Gmail: wlady1516@gmail.com
 - Instagram: wladytech
 
-<script src="//onlinegdb.com/embed/js/ry8n_-pUP?theme=undefined"></script>
+
 
 <!---
 wlady2906/wlady2906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
