@@ -1,19 +1,60 @@
 # Hi there! I'm Wladimir De la S 👋
  
-Backend Developer focused on **.NET Core**, building robust and scalable solutions. I maintain knowledge of programming languages such as Python, C#, C++, PHP, and JavaScript, along with coursework in web application development using CSS, HTML, jQuery, and JavaScript, as well as mobile app development with the Flutter SDK. I enjoy collaboration and teamwork, with responsibilities fully and evenly distributed among team members.
- 
-## 🚀 About Me
+### Senior Software Developer | .NET & Web Development | Software Architecture
 
-- 👋 Hi, I’m @wlady2906
-- 👀 I’m interested in building web applications in order to solve either corporate or start-up needs.
-- 🌱 I’m currently learning web development on .NET 10, ASP.NET Core, Entity Framework Core, Clean Arquitecture and improving the coding logic.
+I'm a `Computer Science` & `Informatics Engineer` from Ecuador with professional experience building, maintaining, and evolving business software solutions.
 
-## 📫 Contact
+My main focus is C# and the .NET ecosystem, particularly ASP.NET Core, Entity Framework, Blazor, and SQL Server. I also have experience working with legacy applications, mobile development, RFID-based solutions, and Machine Learning using Python.
+
+I enjoy solving complex problems, improving existing systems, learning new technologies, and working collaboratively on software projects.
  
+### 🚀 About Me
+
+- 💻 Senior Software Developer with experience in custom software development and enterprise solutions
+- 🔷 Strong focus on C# / .NET
+- 🌐 Experienced in ASP.NET Core, MVC, Blazor Server & Blazor WebAssembly
+- 🗄️ Experience designing and working with SQL Server and Entity Framework
+- 🐍 Experience implementing Machine Learning solutions with Python, pandas and scikit-learn
+- 📱 Experience developing mobile applications with Flutter
+- 📡 Experience designing RFID-based inventory solutions
+- 🔧 Experienced in legacy software maintenance and modernization
+- 🧠 Currently strengthening my knowledge of Clean Architecture, SOLID and software design principles
+- 🤝 I value teamwork, collaboration, responsibility, and continuous learning
+
+### 🌱 Currently Learning
+
+#### 📚 Clean Architecture with ASP.NET Core
+
+I'm currently strengthening my understanding of architectural patterns and modern software engineering practices, especially SOLID, 
+dependency inversion, separation of concerns, and maintainable application design.
+
+### 🤝 Let's Connect
+
+I'm always interested in connecting with other developers, collaborating on interesting projects, 
+and discussing software development, architecture, and technology.
+
+### 📫 Contact
 - GitHub: [@wlady2906](https://github.com/wlady2906)
-- Gmail: wlady1516@gmail.com
+- Email: wlady1516@gmail.com
+- Languages: Spanish (Native) · English (B2)
 
-## 🛠️ Stack
+### 🧪 Areas I'm Interested In
+
+I'm particularly interested in projects involving:
+
+- Enterprise software
+- Backend development
+- NET ecosystem
+- Web application development
+- Software architecture
+- Legacy system modernization
+- API development
+- Business process automation
+- RFID and industrial technology
+- Machine Learning
+- Cross-platform mobile applications
+
+### 🛠️ Stack
 
  
 ![.NET 10](https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -35,7 +76,9 @@ Backend Developer focused on **.NET Core**, building robust and scalable solutio
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter4](https://img.shields.io/badge/CodeIgniter4-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white)
 
-
+---------------------------------------------------------------------------------------------------------------------------------
+<p align="center"> <i>Thanks for visiting my profile!</i></p>
+<p align="center"> <b>Keep learning. Keep building. Keep improving. 🚀</b></p>
 <!---
 wlady2906/wlady2906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
